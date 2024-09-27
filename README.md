@@ -23,10 +23,10 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,javascript,docker)](https://skillicons.dev)
  
 ### Tools:
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,windows)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,windows,linux)](https://skillicons.dev)<br><br>
  
 ### Other Knowledge:
-[![My Skills](https://skillicons.dev/icons?i=html,css,java,python,mysql,mongo,azure,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,python,mysql,mongo,azure)](https://skillicons.dev)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>

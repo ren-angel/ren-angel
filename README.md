@@ -20,7 +20,7 @@
 </div> 
  
 ### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,nestjs,react,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,expressjs,nestjs,react,docker)](https://skillicons.dev)
  
 ### Tools:
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,windows,linux)](https://skillicons.dev)<br><br>

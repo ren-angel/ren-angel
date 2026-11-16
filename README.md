@@ -46,7 +46,7 @@ const daniel = {
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux&theme=dark" alt="Tools" /></a>
 
 **🌱 Also know my way around**<br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,java,python,mysql,postgresql,mongodb,azure&theme=dark" alt="Other knowledge" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,java,python,unity,mysql,postgresql,mongodb,azure&theme=dark" alt="Other knowledge" /></a>
 
 </div>
 

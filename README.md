@@ -40,7 +40,7 @@ const daniel = {
 <div align="center">
 
 **💖 Main skills**<br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=javascript,nodejs,express,nestjs,react,docker&theme=dark" alt="Main skills" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,nestjs,react,docker&theme=dark" alt="Main skills" /></a>
 
 **🧰 Daily tools**<br/>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux&theme=dark" alt="Tools" /></a>
